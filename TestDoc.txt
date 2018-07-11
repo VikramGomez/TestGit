@@ -1,1 +1,6 @@
 This is my first text file to load in Git edited again
+This is new addition
+This is new addition
+This is new addition
+This is new addition
+This is new addition
